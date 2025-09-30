@@ -1,0 +1,29 @@
+{
+  "name": "veeb25",
+  "version": "1.0.0",
+  "description": "Veebiprogemise express.js projekt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://aruorg@github.com/aruorg/Veeb.git"
+  },
+  "keywords": [
+    "Õppetöö",
+    "progemine",
+    "node.js",
+    "express.js",
+    "TLU"
+  ],
+  "author": "Anette Aruorg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aruorg/Veeb/issues"
+  },
+  "homepage": "https://github.com/aruorg/Veeb#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
